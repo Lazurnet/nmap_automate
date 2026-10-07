@@ -1,6 +1,7 @@
 # map automate (Septembre 2026)
 
-J'ai fait cet outil Python qui permet d’automatiser les scans Nmap étudiés dans le module **3.2 – Reconnaissance active** du cours NetAcad *Hacker Éthique*.  
+J'ai fait cet outil Python qui automatise les scans Nmap étudiés dans le module 3.2 du cours NetAcad “Hacker Éthique” (outil Python qui automatise les scans Nmap étudiés dans le module 3.2 du cours NetAcad “Hacker Éthique”.
+)
 Ce projet m'a permis de comprendre comment lancer différents types de scans, sauvegarder automatiquement les résultats dans des fichiers générés.
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-yellow)
 
@@ -25,10 +26,7 @@ git clone https://github.com/user_name/project_name
 cd nmap-recon-toolkit
 ```
 
-## Utilisation
-
 Lancer le script :
-
 ```
 python3 recon.py
 ```
@@ -37,7 +35,6 @@ Choisir un scan, entrer une IP ou un réseau, et le script génère automatiquem
 Lecture du fichier :  ```cat host_discovery_2026-09-27_13-28-25.txt```
 
 ![lancer le script et choisir des scans](demo.png "scan").
-
 
 ## Astuces
 
@@ -55,9 +52,4 @@ Ce projet accompagne mon apprentissage du module 3.2 du cours NetAcad :
 - Automatisation de la reconnaissance active
 
 # Sources
-https://nmap.org/book/man-target-specification.html
-
-outil Python qui automatise les scans Nmap étudiés dans le module 3.2 du cours NetAcad “Hacker Éthique”.
-
-
 https://nmap.org/book/man-target-specification.html
