@@ -1,6 +1,6 @@
 # map automate (Septembre 2026)
 
-J'ai fait cet outil Python qui automatise les scans Nmap étudiés dans le module 3.2 du cours NetAcad “Hacker Éthique” (outil Python qui automatise les scans Nmap étudiés dans le module 3.2 du cours NetAcad “Hacker Éthique”.
+J'ai fait cet outil Python qui automatise les scans Nmap étudiés dans le module 3.2 du cours NetAcad “Hacker Éthique” dans le module 3.2 du cours NetAcad “Hacker Éthique”.  
 )
 Ce projet m'a permis de comprendre comment lancer différents types de scans, sauvegarder automatiquement les résultats dans des fichiers générés.
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-yellow)
