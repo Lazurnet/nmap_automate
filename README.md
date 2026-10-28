@@ -51,3 +51,4 @@ Ce projet accompagne mon apprentissage du module 3.2 du cours NetAcad :
 
 # Sources
 https://nmap.org/book/man-target-specification.html
+Module 3.2 du cours NetAcad “Hacker Éthique”
